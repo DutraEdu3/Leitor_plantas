@@ -1,0 +1,11 @@
+Bom proveito!!
+
+Baixar Cmder para simulação de console linux em Windows:
+
+https://cmder.net/
+
+Baixar Opencv-3.4.16 ou superior para desenvolver a parte visual:
+
+https://opencv.org/releases/
+
+Após fazer download descompactar na pasta treino.
